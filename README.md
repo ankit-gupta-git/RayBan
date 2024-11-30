@@ -34,8 +34,3 @@ miranda/ │ ├── index.html # Main HTML file ├── style.css # Stylesh
 - Modify animations in the script.js file to suit your preferences.
 - Update styles in the style.css file for a personalized look.
 - Replace domain.ttf with your preferred font if desired.
-
-# hello it's me
-
-
-# Ankit maddhachod
